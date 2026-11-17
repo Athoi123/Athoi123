@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="170" viewBox="0 0 850 170" role="img" aria-label="Athoi Moni Saha, full-stack developer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2e1065"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<clipPath id="c"><path d="M0 0H850V136Q638 184 425 144T0 136Z"/></clipPath></defs>
+<style>
+.t{font:800 58px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:-1px}
+.d{font:600 18px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#fdf2f8}
+.f{opacity:0;animation:f 1s ease-out forwards}.d.f{animation-delay:.4s}
+@keyframes f{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.w{animation:w 9s ease-in-out infinite alternate}
+@keyframes w{to{transform:translateX(-106px)}}
+.s{animation:tw 3s ease-in-out infinite;opacity:.15}
+@keyframes tw{0%,100%{opacity:.1}50%{opacity:.95}}
+@media (prefers-reduced-motion:reduce){.f,.w,.s{animation:none;opacity:1}.s{opacity:.5}}
+</style>
+<g clip-path="url(#c)"><rect width="850" height="170" fill="url(#g)"/>
+<path class="w" d="M0 118Q255 84 510 114T1062 106V170H0Z" fill="#fff" opacity=".10"/>
+<path class="s" style="animation-delay:2.0s" transform="translate(351 33) scale(1.2)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:1.1s" transform="translate(94 119) scale(0.5)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:0.1s" transform="translate(79 78) scale(0.7)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:0.7s" transform="translate(464 67) scale(0.5)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:2.5s" transform="translate(584 68) scale(0.5)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:1.7s" transform="translate(146 42) scale(0.5)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:0.1s" transform="translate(426 20) scale(0.7)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:0.4s" transform="translate(156 51) scale(1.2)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:1.7s" transform="translate(140 87) scale(0.9)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:1.7s" transform="translate(718 37) scale(0.5)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:0.3s" transform="translate(674 38) scale(0.9)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:1.9s" transform="translate(749 22) scale(0.5)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:2.3s" transform="translate(528 101) scale(1.2)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:1.1s" transform="translate(496 88) scale(1.2)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:2.1s" transform="translate(274 115) scale(0.7)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/><path class="s" style="animation-delay:1.6s" transform="translate(269 24) scale(0.9)" d="M0-10C1-3 3-1 10 0 3 1 1 3 0 10-1 3-3 1-10 0-3-1-1-3 0-10Z" fill="#fff"/></g>
+<text class="t f" x="50%" y="82" text-anchor="middle">Athoi</text>
+<text class="d f" x="50%" y="114" text-anchor="middle">Athoi Moni Saha · Full-Stack Developer</text>
+</svg>
