@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="363" viewBox="0 0 340 363" role="img" aria-labelledby="t d">
+<title id="t">Athoi Moni Saha, full-stack developer</title>
+<desc id="d">Terminal card: full-stack developer in Python and JavaScript, CSE student at Chandigarh University, building Kaloria AI, open to internships.</desc>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,monospace;font-size:15px;white-space:pre}
+.l{opacity:0;animation:in .35s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1s steps(1) infinite;animation-delay:5.90s;opacity:0}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.cur{animation:none;opacity:1}}
+.l0{animation-delay:0.40s}.l1{animation-delay:0.90s}.l2{animation-delay:1.40s}.l3{animation-delay:1.90s}.l4{animation-delay:2.40s}.l5{animation-delay:2.90s}.l6{animation-delay:3.40s}.l7{animation-delay:3.90s}.l8{animation-delay:4.40s}.l9{animation-delay:4.90s}.l10{animation-delay:5.40s}
+</style>
+<rect x="1" y="1" width="338" height="361" rx="14" fill="#150f1f" stroke="#3b2a55"/>
+<path d="M1 15a14 14 0 0 1 14-14h310a14 14 0 0 1 14 14v19H1z" fill="#1f1533"/>
+<line x1="1" y1="34" x2="339" y2="34" stroke="#3b2a55"/>
+<circle cx="14" cy="17.0" r="6" fill="#fda4af"/><circle cx="34" cy="17.0" r="6" fill="#fde68a"/><circle cx="54" cy="17.0" r="6" fill="#c4b5fd"/>
+<text x="170.0" y="21.5" text-anchor="middle" fill="#a78bba" style="font-size:13px">athoi — zsh</text>
+<text class="l l0" x="16" y="58"><tspan fill="#f9a8d4">athoi ~ $ </tspan><tspan fill="#f3e8ff">whoami</tspan></text>
+<text class="l l1" x="16" y="83"><tspan fill="#f3e8ff">Athoi Moni Saha</tspan></text>
+<text class="l l2" x="16" y="108"><tspan fill="#f3e8ff">full-stack developer</tspan></text>
+<text class="l l3" x="16" y="133"><tspan fill="#f9a8d4">athoi ~ $ </tspan><tspan fill="#f3e8ff">cat stack.txt</tspan></text>
+<text class="l l4" x="16" y="158"><tspan fill="#c4b5fd">Python · JavaScript · Node.js</tspan></text>
+<text class="l l5" x="16" y="183"><tspan fill="#c4b5fd">React · MongoDB · FastAPI</tspan></text>
+<text class="l l6" x="16" y="208"><tspan fill="#f9a8d4">athoi ~ $ </tspan><tspan fill="#f3e8ff">./status --now</tspan></text>
+<text class="l l7" x="16" y="233"><tspan fill="#f3e8ff">▸ CSE @ Chandigarh University</tspan></text>
+<text class="l l8" x="16" y="258"><tspan fill="#f3e8ff">▸ Backend · AI · IoT</tspan></text>
+<text class="l l9" x="16" y="283"><tspan fill="#f3e8ff">▸ Building Kaloria AI</tspan></text>
+<text class="l l10" x="16" y="308"><tspan fill="#86efac">✔ open to internships</tspan></text>
+<text class="cur" x="16" y="333"><tspan fill="#f9a8d4">athoi ~ $ </tspan><tspan fill="#f472b6">█</tspan></text>
+</svg>
